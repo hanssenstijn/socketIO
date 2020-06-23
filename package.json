@@ -18,6 +18,8 @@
   "homepage": "https://github.com/hanssenstijn/socketIO#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^2.3.0"
+    "realtime": "0.0.2",
+    "socket.io": "^2.3.0",
+    "websocket": "^1.0.31"
   }
 }
